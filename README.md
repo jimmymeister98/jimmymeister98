@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on: Automation with Kotlin/Java and Docker
-- 🌱 I’m currently learning: Kotlin (App Development & Development in general) &Memory Manipulation with C/C++ (also looking into rust)
+- 🔭 I’m currently working on: Researching AI/ML stuff.
+- 🌱 I’m currently learning: Kotlin (App Development & Development in general) & Memory Manipulation with C/C++ (also looking into rust) & All sorts of AI related stuff
 - 👯 I’m looking to collaborate on: (almost) everything
 - 💬 Ask me about Android-Auto development stuff
 - 😄 Pronouns: he/him
